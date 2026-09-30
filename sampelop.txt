@@ -1,0 +1,16 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 20876.26it/s]
+What is the leave policy?
+Vector size: 384
+[5.3840097e-02 5.2199852e-02 4.0060018e-05 3.6013555e-02 1.1125619e-01]
+
+How many vacation days can I take?
+Vector size: 384
+[ 0.04559482  0.027079    0.01356575  0.04679386 -0.02680765]
+
+What is the cafeteria menu?
+Vector size: 384
+[ 0.00031433  0.07502579  0.00671286 -0.00257293 -0.08860754]
+
+Similarity scores:
+[[0.3016553  0.91130906 0.1375321 ]]
